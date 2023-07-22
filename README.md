@@ -4,6 +4,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Live Demo](#live-demo)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -33,6 +34,10 @@ This webpage shows a sneak peek into the project I have developed and deployed, 
 - CSS
 - Javascript
 - Webpack
+  
+  ### Live Demo <a name="live-demo"></a>
+  - Please visit the following link to view the live demo (HTTPS)
+https://ngalamac.github.io/todo-list/dist/
 
 ### Key Features <a name="key-features"></a>
 - **Users can add remove books from library**
